@@ -1,5 +1,5 @@
 # Puissance4
-A Connect 4 plugin game I made for a school project in JS
+A Connect 4 plugin game I made  in JS
 
 To launch the plugin you can run this command to play with the defaults settings:                                                        
 $('.content').my_puissance();
